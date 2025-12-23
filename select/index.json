@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "lazy cat",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-23T09:55:04.448106Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Завтра будет лучше, чем вчера (feat. Lazy Cat)",
+      "artist": "ARITMIYA",
+      "has_synced": false,
+      "path": "select/01_Завтра_будет_лучше,_чем_вчера_(feat._Lazy_Cat)_ARITMIYA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "lazy cat",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/02_lazy_cat_Eve.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lazy Cat",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Lazy_Cat_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lazy Cat",
+      "artist": "Video, Eve",
+      "has_synced": true,
+      "path": "select/04_Lazy_Cat_Video,_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lazy Cat (Paused)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_Lazy_Cat_(Paused)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "lazy cat  – Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/06_lazy_cat_–_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lazy cat",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_lazy_cat_Eve.txt"
+    }
+  ]
+}
